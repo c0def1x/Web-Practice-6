@@ -1,3 +1,4 @@
+*
 {
 	margin: 0;
 	padding: 0;
@@ -45,18 +46,22 @@ body
 
 #center_1
 {
-	width: 450px;
-	height: 80px;
+	margin: 70px;
+	width: 350px;
+	height: 100px;
 	background: #87CEFA;
 	text-align: left;
+	float: left;
 }
 
 #center_2
 {
-	width: 450px;
-	height: 80px;
+	margin: 40px;
+	width: 350px;
+	height: 100px;
 	background: #9370DB;
 	text-align: left;
+	float: left;
 }
 
 #left
